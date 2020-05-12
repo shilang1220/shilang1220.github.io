@@ -101,6 +101,17 @@ layout: default
   {% include mathjax_support.html %}
 {% endif %}
 
+<!-- mathjax支持 -->
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+</script>
+    
 {% if site.netease_comment %}
 <!-- 网易云跟帖JS代码 start -->
 <script src="https://img1.cache.netease.com/f2e/tie/yun/sdk/loader.js"></script>
