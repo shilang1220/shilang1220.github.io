@@ -6,16 +6,16 @@
 
 ### 二、参与发表的期刊论文
 
-	1. Qian Chunyao; Yi Chao; Cheng Chengqi; Pu Guoliang, GeoSOT-Based Spatiotemporal Index of Massive Trajectory Data, ISPRS INTERNATIONAL JOURNAL OF GEO-INFORMATION, Vol.8(6), 2019.
- 	2. Li Shuang; Pu Guoliang; Cheng Chengqi; Chen, Bo, Method for Managing and Querying Geo-spatial Data Using a Grid-code-array Spatial Index, EARTH SCIENCE INFORMATICS,Vol.12(2), 2019.
- 	3. Li Shuang; Cheng Chengqi; Pu Guoliang etc. QRA-Grid: Quantitative Risk Analysis and Grid-based Pre-warning Model for Urban Natural Gas Pipeline,ISPRS INTERNATIONAL JOURNAL OF GEO-INFORMATION, Vol.8(3), 2019.
- 	4. 田方杰，程承旗，濮国梁. GeoSOT时空编码的海量照片组织检索方法[J].测绘科学,2018,43(2):77-82.
- 	5. 齐澄宇, 程承旗, 濮国梁, 等. 一种基于地球剖分网格的区域面积计算方法[J].地理信息世界,2018,25(3):17-21.
- 	6. 吴飞龙，濮国梁，程承旗等．面向移动服务的遥感影像感兴趣区提取压缩方法［J］．测绘通报，2016( 11) : 35-38．
- 	7. 褚福林,濮国梁,程承旗,等.基于全球剖分网格的空间数据全文检索方法[J].地理信息世界,2015,22(2):40-43.
- 	8. 冯洋, 濮国梁, 土地利用/覆盖链式遥感分类方法研究, 遥感信息, 2013 (6): 62-66.
- 	9. 濮国梁, 冉令辉, 谢谦礼, 等, 六边形正交影像金字塔图像压缩算法研究, 计算机工程与应用, 2007, 43(33): 51-53.
- 	10. 杨武年, 濮国梁, 长江三峡库区地质灾害遥感图像信息处理及其监测和评估, 地质学报, 2005, 79(3): 423-430
+1. Qian Chunyao; Yi Chao; Cheng Chengqi; Pu Guoliang, GeoSOT-Based Spatiotemporal Index of Massive Trajectory Data, ISPRS INTERNATIONAL JOURNAL OF GEO-INFORMATION, Vol.8(6), 2019.
+2. Li Shuang; Pu Guoliang; Cheng Chengqi; Chen, Bo, Method for Managing and Querying Geo-spatial Data Using a Grid-code-array Spatial Index, EARTH SCIENCE INFORMATICS,Vol.12(2), 2019.
+3. Li Shuang; Cheng Chengqi; Pu Guoliang etc. QRA-Grid: Quantitative Risk Analysis and Grid-based Pre-warning Model for Urban Natural Gas Pipeline,ISPRS INTERNATIONAL JOURNAL OF GEO-INFORMATION, Vol.8(3), 2019.
+4. 田方杰，程承旗，濮国梁. GeoSOT时空编码的海量照片组织检索方法[J].测绘科学,2018,43(2):77-82.
+5. 齐澄宇, 程承旗, 濮国梁, 等. 一种基于地球剖分网格的区域面积计算方法[J].地理信息世界,2018,25(3):17-21.
+6. 吴飞龙，濮国梁，程承旗等．面向移动服务的遥感影像感兴趣区提取压缩方法［J］．测绘通报，2016( 11) : 35-38．
+7. 褚福林,濮国梁,程承旗,等.基于全球剖分网格的空间数据全文检索方法[J].地理信息世界,2015,22(2):40-43.
+8. 冯洋, 濮国梁, 土地利用/覆盖链式遥感分类方法研究, 遥感信息, 2013 (6): 62-66.
+9. 濮国梁, 冉令辉, 谢谦礼, 等, 六边形正交影像金字塔图像压缩算法研究, 计算机工程与应用, 2007, 43(33): 51-53.
+10. 杨武年, 濮国梁, 长江三峡库区地质灾害遥感图像信息处理及其监测和评估, 地质学报, 2005, 79(3): 423-430
 
 ### 三、个人兴趣爱好
 
@@ -43,18 +43,18 @@
 - [史飞](https://500px.com/vcg-feitography)
 - [阿卡Carson](https://500px.com/vcg-carson)
 - [周游](Joyous周游)
-
+......
 
 
 #### 厨艺
 
 ​	比较喜爱川菜，因此主要也专注于川菜的记忆，已基本掌握水煮系列、小炒系列、红烧系列、红油凉拌系列菜品，川菜讲究“百菜百味，一菜一格”，但在大的菜型上也有一通百通的特点...
 
-​	下面是我比较习惯的几个头条号：
+​	下面是我比较喜欢的几个头条号：
 
 - [川菜大师舒国重的头条号，老玩家](https://www.toutiao.com/c/user/2211869626215572/#mid=1657403967375364)
 - [大耳朵图图川菜头条号，最美家常菜](https://www.toutiao.com/c/user/87797067085/#mid=1590567211600910)
 - [带着爱进厨房头条号，火筵家常](https://www.toutiao.com/c/user/7000873837/#mid=7000873837)
 - [家庭版川菜头条号，三德子美食](https://www.toutiao.com/c/user/61399613364/#mid=1572777475314701)
 - [国宴大师的头条号，老饭骨](https://www.toutiao.com/c/user/102449304710/#mid=1617095282868237)
-
+......
