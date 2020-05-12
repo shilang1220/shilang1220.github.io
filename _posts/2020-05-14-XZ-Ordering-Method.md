@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "XZ-Ordering--一种在Z序基础上扩展的多维空间索引技术"
+title:      "XZ序多维空间索引技术"
 subtitle:   ""
 date:       2020-05-14 12:00:00
 author:     "西山晴雪"

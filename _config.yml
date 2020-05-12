@@ -78,7 +78,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the lost time... <br> 大胆假设，小心求证，且不可做浮夸之人..."
+sidebar-about-description: "For the lost time... <br> 坦坦荡荡做人，兢兢业业做事，且不可做浮躁之人..."
 sidebar-avatar: /img/shilang-photo-main.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
