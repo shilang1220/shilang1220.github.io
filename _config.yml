@@ -3,7 +3,7 @@ title: 西山晴雪
 SEOTitle: 西山晴雪的博客 | Shilang1220's Blog
 header-img: img/home-bg.jpg
 email: 8987719@qq.com
-description: "时空数据库 地理知识图谱 摄影  美食  历史 人文 | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
+description: "时空数据库 地理知识图谱 摄影  美食  历史 人文 | 一起挖掘时空新世界...。"
 keyword: "时空数据库, 知识图谱, 地理知识图谱, 博客, 个人网站"
 url: "https://shilang1220.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -78,7 +78,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the lost time... <br> 坦坦荡荡做人，兢兢业业做事，且不可做浮躁之人..."
+sidebar-about-description: "For the lost time... <br> 坦坦荡荡做人，兢兢业业做事，且不可做浮躁之徒..."
 sidebar-avatar: /img/shilang-photo-main.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 

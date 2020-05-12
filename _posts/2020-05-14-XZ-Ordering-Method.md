@@ -9,7 +9,7 @@ tags:
     - 多维空间索引
     - 空间填充曲线
     - Z序/XZ序
-    - 时空数据库
+    - 空间数据库
 ---
 
 XZ-Ordering Method
