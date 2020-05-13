@@ -8,7 +8,8 @@ header-img: "img/post-bg-android.jpg"
 tags:
     - 多维空间索引
     - 空间填充曲线
-    - Z序/XZ序
+    - Z序曲线
+    - XZ序曲线
     - 空间数据库
 ---
 
