@@ -170,6 +170,22 @@ layout: default
         anchors.add().remove('.intro-header h1').remove('.subheading').remove('.sidebar-container h5');
     })
 </script>
+
+<div id="gitmentContainer"></div>
+<link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+<script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+<script>
+var gitment = new Gitment({
+    owner: 'shilang1220',
+    repo: 'shilang1220.github.io',
+    oauth: {
+        client_id: '49d61a0d13ee0c397250',
+        client_secret: 'f03cf99a55ee443971ccccbb221b3b39647c5a7a',
+    },
+});
+gitment.render('gitmentContainer');
+</script>
+
 <style>
     /* place left on bigger screen */
     @media all and (min-width: 800px) {
