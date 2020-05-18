@@ -83,6 +83,9 @@ sidebar-avatar: /img/shilang-photo-main.jpg      # use absolute URL, seeing it's
 
 
 
+# Catalog
+catalog-list: true                     # whether or not using Catalog lists.
+
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
@@ -96,7 +99,6 @@ service-worker: true
 
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: true
-
 
 
 # Friends

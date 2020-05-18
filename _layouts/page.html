@@ -39,6 +39,7 @@ layout: default
             ">
     			{{ content }}
     		</div>
+
     <!-- Sidebar Container -->
             <div class="
                 col-lg-3 col-lg-offset-0
@@ -47,6 +48,9 @@ layout: default
                 col-xs-12
                 sidebar-container
             ">
+                <!-- Catalog Block -->
+                {% include catalog-list.html %}
+
                 <!-- Featured Tags -->
                 {% include featured-tags.html %}
 
@@ -64,21 +68,6 @@ layout: default
 <!-- Add support for Mathjax by Voleking-->
 <!-- If you want to see formulars well in post preview, Maybe you should add this.-->
 <!-- However, most of the time formulars may not appear in the post preview, you can delete it.-->
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    TeX: {
-      equationNumbers: {
-        autoNumber: "AMS"
-      }
-    },
-    tex2jax: {
-      inlineMath: [ ['$','$'] ],
-      displayMath: [ ['$$','$$'] ],
-      processEscapes: true,
-    }
-  });
-</script>
-<script type="text/javascript"
-        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
+   {% include mathjax_support.html %}
 {% endif %}
+
