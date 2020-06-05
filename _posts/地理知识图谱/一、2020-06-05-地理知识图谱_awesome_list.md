@@ -57,16 +57,9 @@ tags:
 -  Leo Obrst, Michael Gruninger, Ken Baclawski, Mike Bennett, Dan Brickley, Gary Berg-Cross, Pascal Hitzler, **Krzysztof Janowicz**, Christine Kapp, Oliver Kutz, Christoph Lange, Anatoly Levenchuk, Francesca Quattri, Alan Rector, Todd Schneider, Simon Spero, Anne Thessen, Marcela Vegetti, Amanda Vizedom, Andrea Westerinen, Matthew West and Peter Yim (2014): [Semantic Web and Big Data meets Applied Ontology](http://iospress.metapress.com/content/02jp47552712540j/) (*Communique*). Applied Ontology Journal 9 (2), IOS Press, pp. 155-170.
 - Kalbasi, R., **Janowicz, K.**, Reitsma, F., Boerboom, L., Alesheikh, A. (2104): [Collaborative Ontology Development for the Geosciences](http://onlinelibrary.wiley.com/doi/10.1111/tgis.12070/abstract). Transactions in GIS.Volume 18, Issue 6, pp. 834-851
 - **Janowicz, K.** (2012): [Observation-Driven Geo-Ontology Engineering.](https://geog.ucsb.edu/~jano/ODOEfinaldraft.pdf) Transactions in GIS, 16(3), pp. 351-37
-
-
-
-## 
-
 - 
 
 ### 1.3 本体设计模式
-
-**（1）论文**
 
 - **Janowicz, K.**, Gangemi, A., Hitzler, P., Krisnadhi, A., and Presutti, V. (2016): [Introduction: Ontology Design Patterns in a Nutshell](https://geog.ucsb.edu/~jano/odpnutshell.pdf). In P. Hitzler, A. Gangemi, K. Janowicz, A. Krisnadhi, and V. Presutti (Eds), Ontology Engineering with Ontology Design Patterns: Foundations and Applications. IOS Press 1-6.
 
