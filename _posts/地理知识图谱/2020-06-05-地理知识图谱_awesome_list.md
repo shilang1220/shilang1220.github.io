@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "地理知识图谱「 1 」"
-subtitle:   "地理知识图谱与地理空间语义网"
+title:      "地理知识图谱「 4 」"
+subtitle:   "地理知识图谱awesome list"
 date:       2020-05-25 10:00:00
 author:     "西山晴雪"
 header-img: "img/post-bg-android.jpg"
@@ -14,7 +14,7 @@ tags:
     - Awesome List
 ---
 
-# 地理知识图谱相关研究领域总结
+# 地理知识图谱awesome list
 
 
 
