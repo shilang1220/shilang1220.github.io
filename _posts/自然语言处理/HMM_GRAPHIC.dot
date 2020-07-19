@@ -1,0 +1,35 @@
+digraph first2{
+
+y0[shape=circle;label=""]
+y1[shape=circle;label=<y<sub>1</sub>>]
+y2[shape=circle;label=<y<sub>2</sub>>]
+y3[label="..."]
+yt[shape=circle;label=<y<sub>t</sub>>]
+y4[label="..."]
+yT[shape=circle;label=<y<sub>T</sub>>]
+
+x1[shape=circle;label=<x<sub>1</sub>>]
+x2[shape=circle;label=<x<sub>2</sub>>]
+xt[shape=circle;label=<x<sub>t</sub>>]
+xT[shape=circle;label=<x<sub>T</sub>>]
+
+rankdir =TB
+{
+    rank="same"
+    
+    y0->y1[label="π"]
+    y1->y2[label="A"]
+    y2->y3[label="A"]
+    y3->yt[label="A"]    
+    yt->y4[label="A"]
+    y4->yT[label="A"]
+}
+{
+y1->x1[label="B"];
+y2->x2[label="B"]
+yt->xt[label="B"]
+yT->xT[label="B"]
+}
+
+
+}
