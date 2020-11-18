@@ -1,4 +1,3 @@
-```
 ---
 layout:     post
 title:      "地理知识图谱「 12 」"
@@ -14,7 +13,7 @@ tags:
     - Place
     - Location    
 ---
-```
+
 
 # Places in Information Science
 
