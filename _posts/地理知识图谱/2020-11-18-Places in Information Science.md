@@ -1,13 +1,13 @@
 ---
 layout:     post
 title:      "地理知识图谱「 12 」"
-subtitle:   "从自然语言文本中收割地理空间大数据"
+subtitle:   "信息科学中的Places"
 date:       2020-11-18 19:23:00
 author:     "西山晴雪"
 header-img: "img/post-bg-android.jpg"
 categories: Geographic Knowledge Graph
 tags:
-	- 地理知识图谱
+    - 地理知识图谱
     - Platial Information System
     - Core concepts 
     - Place
