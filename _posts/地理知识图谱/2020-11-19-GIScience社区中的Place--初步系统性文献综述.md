@@ -17,6 +17,11 @@ tags:
 ---
 
 # GIScience社区中的Place--初步系统性文献综述
+# Place in the GIScience Community – an Indicative and Preliminary Systematic Literature Review  
+
+Daniel Wagner 德国海德堡大学地理研究所
+Alexander Zipf 德国海德堡大学地理研究所
+Rene Westerholt  英国沃里克大学跨学科方法学中心
 
 ## 1 概述
 
